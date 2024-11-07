@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sandarudivyantha.github.io/portfolio_website_3d_sandaru",
-  "name": "portfolio_website_3d_sandaru",
+  "homepage": "https://virajsaranga.github.io/My-3d-portfolio",
+  "name": "portfolio_website_viraj",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -62,6 +62,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
